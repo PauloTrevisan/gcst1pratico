@@ -14,5 +14,6 @@ public class VerificadorDeIdade {
         } else {
             System.out.println("Menor de idade");
         }
+        System.out.println("Verificação concluída com sucesso!");
     }
 }
